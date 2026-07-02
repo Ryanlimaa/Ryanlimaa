@@ -77,6 +77,14 @@ Sou uma pessoa esforçada e curiosa, em busca de uma oportunidade para aplicar m
 />
 <img 
     align="left" 
+    alt="Insomnia" 
+    title="Insomnia"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia-original.svg"        
+/>
+<img 
+    align="left" 
     alt="HTML"
     title="HTML" 
     width="30px" 
