@@ -53,8 +53,8 @@ Sou uma pessoa esforçada e curiosa, em busca de uma oportunidade para aplicar m
 />
 <img 
     align="left" 
-    alt=".net"
-    title=".net" 
+    alt=".Net"
+    title=".Net" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original.svg"        
@@ -69,8 +69,8 @@ Sou uma pessoa esforçada e curiosa, em busca de uma oportunidade para aplicar m
 />
 <img 
     align="left" 
-    alt="Python" 
-    title="Python"
+    alt="MySQL" 
+    title="MySQL"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
