@@ -2,7 +2,7 @@
 
 **`Desenvolvedor em formação`**
 
-Me chamo Ryan de Lima tenho 21 anos e sou formado em Análise e Desenvolvimento de Sistemas na universidade de Mogi das Cruzes (UMC).
+Me chamo Ryan Lima tenho 21 anos e sou estudante de Análise e Desenvolvimento de Sistemas na universidade de Mogi das Cruzes (UMC).
 
 Possuo um desejável conhecimento na linguagem C# e .NET, em minha jornada de estudo tenho adquirido conhecimentos em criação de Web APIs, lógica de programação, banco de dados, boas práticas de programação, etc.
 
